@@ -30,11 +30,9 @@ Internally, the system uses:
 - GitHub for version control
 
 ## File Structure
-Milestone/ ├── Trello.java # Main class with logic 
-           ├── Main.java # Test/demo class to simulate interaction 
-           └── README.md # Project documentation (this file)
+Milestone/ ```├── Trello.java # Main class with logic ```├── Main.java # Test/demo class to simulate interaction ```└── README.md # Project documentation (this file)
 
-**## Milestone Objectives**
+## Milestone Objectives
 - Understand Java collections like Map and List  
 - Apply OOP principles in real-world simulation  
 - Use GitHub for collaborative coding  
