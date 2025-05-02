@@ -15,7 +15,7 @@ This is a milestone project that simulates a Trello-style social feed system in 
 
 ## How It Works
 
-- Users are represented by string usernames (e.g., "Alice", "Bob").
+- Users are represented by string usernames (e.g., "UserA", "UserB").
 - Tweets are represented by an integer tweet ID.
 
 Internally, the system uses:
@@ -30,6 +30,7 @@ Internally, the system uses:
 - GitHub for version control
 
 ## Milestone Objectives
+
 - Understand Java collections like Map and List  
 - Apply OOP principles in real-world simulation  
 - Use GitHub for collaborative coding  
