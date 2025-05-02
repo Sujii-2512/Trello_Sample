@@ -1,4 +1,4 @@
-# Trello-Tweet-App Project (Java)
+# Trello-Tweet-App Project
 
 This is a milestone project that simulates a Trello-style social feed system in Java. It allows users to:
 
