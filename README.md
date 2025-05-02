@@ -1,4 +1,4 @@
-# Trello-Like Mini Project (Java)
+# Trello-Tweet-App Project (Java)
 
 This is a milestone project that simulates a Trello-style social feed system in Java. It allows users to:
 
@@ -34,6 +34,12 @@ Milestone/ ├── Trello.java # Main class with logic
            ├── Main.java # Test/demo class to simulate interaction 
            └── README.md # Project documentation (this file)
 
+**## Milestone Objectives**
+- Understand Java collections like Map and List  
+- Apply OOP principles in real-world simulation  
+- Use GitHub for collaborative coding  
+- Build a functional mini-app with tweet and follow logic  
+
 ## Sample Usage
 
 ```java
@@ -46,9 +52,3 @@ System.out.println(trello.getNewsFeed("UserA"));
 
 trello.unfollow("UserA", "UserB");
 System.out.println(trello.getNewsFeed("UserA"));
-
-**## Milestone Objectives**
-- Understand Java collections like Map and List  
-- Apply OOP principles in real-world simulation  
-- Use GitHub for collaborative coding  
-- Build a functional mini-app with tweet and follow logic  
